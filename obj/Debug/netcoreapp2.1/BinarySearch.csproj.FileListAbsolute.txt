@@ -1,0 +1,11 @@
+/Users/gabeo14/sdg/unit-3/BinarySearch/bin/Debug/netcoreapp2.1/BinarySearch.deps.json
+/Users/gabeo14/sdg/unit-3/BinarySearch/bin/Debug/netcoreapp2.1/BinarySearch.runtimeconfig.json
+/Users/gabeo14/sdg/unit-3/BinarySearch/bin/Debug/netcoreapp2.1/BinarySearch.runtimeconfig.dev.json
+/Users/gabeo14/sdg/unit-3/BinarySearch/bin/Debug/netcoreapp2.1/BinarySearch.dll
+/Users/gabeo14/sdg/unit-3/BinarySearch/bin/Debug/netcoreapp2.1/BinarySearch.pdb
+/Users/gabeo14/sdg/unit-3/BinarySearch/obj/Debug/netcoreapp2.1/BinarySearch.csprojAssemblyReference.cache
+/Users/gabeo14/sdg/unit-3/BinarySearch/obj/Debug/netcoreapp2.1/BinarySearch.csproj.CoreCompileInputs.cache
+/Users/gabeo14/sdg/unit-3/BinarySearch/obj/Debug/netcoreapp2.1/BinarySearch.AssemblyInfoInputs.cache
+/Users/gabeo14/sdg/unit-3/BinarySearch/obj/Debug/netcoreapp2.1/BinarySearch.AssemblyInfo.cs
+/Users/gabeo14/sdg/unit-3/BinarySearch/obj/Debug/netcoreapp2.1/BinarySearch.dll
+/Users/gabeo14/sdg/unit-3/BinarySearch/obj/Debug/netcoreapp2.1/BinarySearch.pdb
